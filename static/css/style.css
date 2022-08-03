@@ -1,0 +1,5 @@
+li:hover{
+    background-color: gray;
+    border-width: 10px;
+    border: solid yellow;
+}
